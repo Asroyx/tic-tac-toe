@@ -21,4 +21,4 @@ The TicTacToe Game Simulation is a console-based implementation of the classic T
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/tictactoe.git
+   git clone https://github.com/Asroyx/tic-tac-toe.git
